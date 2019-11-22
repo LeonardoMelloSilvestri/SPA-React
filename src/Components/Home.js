@@ -18,7 +18,7 @@ class Home extends React.Component {
   render() {
     const infoList = this.state.infos.map(info => {
       return(
-        <div className="col-sm-6 col-lg-3">
+        <div className="col-sm-6 col-lg-3 mt-3 mt-lg-0" key={info.id}>
           <div className="card">
             <div className="card-body">
               <h5 className="card-title">{info.title}</h5>

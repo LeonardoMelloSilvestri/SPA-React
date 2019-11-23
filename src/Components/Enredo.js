@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'
 
 const Enredo = () => {
   return (
@@ -20,7 +20,7 @@ const Enredo = () => {
               Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quidem, vero excepturi. Culpa quibusdam quo quod! Enim dolorum eaque qui obcaecati, voluptatum corrupti blanditiis adipisci temporibus nulla! Ex voluptate delectus ipsam.
             </p>
             <p className="lead">
-              <a href="/personagens" className="btn btn-lg btn-secondary mt-2">Conheça os principais personagens</a>
+              <a href="/personagens" className="btn btn-lg btn-secondary mt-2">Principais personagens</a>
             </p>
           </main>
         </div>
